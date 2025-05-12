@@ -7,4 +7,4 @@ int ex3(int a){
     }
     return a*ex3(a - 1);
 }
-dong nay de code brach nha 
+dong nay de code brach nha ,sdasdasd
