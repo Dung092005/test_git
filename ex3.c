@@ -7,4 +7,6 @@ int ex3(int a){
     }
     return a*ex3(a - 1);
 }
-dong nay de code brach nha ,sdasdasd
+
+dong nay de code brach nha , đã tét code và h là test cònflic nha 
+
